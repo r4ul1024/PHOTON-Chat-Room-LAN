@@ -2,7 +2,7 @@
 
 ## English
 
-terminal-based TCP chat room written in C++ using Boost.Asio.
+Terminal-based TCP chat room written in C++ using Boost.Asio (runs in the terminal).
 
 ### Server
 - TCP server that asynchronously accepts connections.  
@@ -21,7 +21,7 @@ This project is a BETA version.
 
 ## Русский
 
-TCP чат-комната, работающая в терминале, написанная на C++ с использованием Boost.Asio.
+Терминальная TCP чат-комната, работающая в консоли, написанная на C++ с использованием Boost.Asio.
 
 ### Сервер
 - TCP сервер, который асинхронно принимает подключения.  
